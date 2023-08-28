@@ -1,5 +1,6 @@
 {
-  "name": "http://examineyou65.github.io/TempleProject",
+  "homepage":"http://examineyou65.github.io/TempleProject",
+  "name": "templeproject",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
