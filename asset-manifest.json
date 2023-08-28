@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.c9ebdc4a.js",
-    "static/js/787.12dd2b35.chunk.js": "/static/js/787.12dd2b35.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.c9ebdc4a.js.map": "/static/js/main.c9ebdc4a.js.map",
-    "787.12dd2b35.chunk.js.map": "/static/js/787.12dd2b35.chunk.js.map"
+    "main.css": "/TempleProject/static/css/main.073c9b0a.css",
+    "main.js": "/TempleProject/static/js/main.1aa32046.js",
+    "static/js/787.b3b0982e.chunk.js": "/TempleProject/static/js/787.b3b0982e.chunk.js",
+    "static/media/logo.svg": "/TempleProject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TempleProject/index.html",
+    "main.073c9b0a.css.map": "/TempleProject/static/css/main.073c9b0a.css.map",
+    "main.1aa32046.js.map": "/TempleProject/static/js/main.1aa32046.js.map",
+    "787.b3b0982e.chunk.js.map": "/TempleProject/static/js/787.b3b0982e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c9ebdc4a.js"
+    "static/js/main.1aa32046.js"
   ]
 }
